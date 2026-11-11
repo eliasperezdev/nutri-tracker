@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html {
+  color-scheme: light;
+}
+
+body {
+  background: #fafafa;
+  color: #171717;
+  font-family:
+    system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
